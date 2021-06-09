@@ -1,0 +1,13 @@
+/* CSS for the header of the website */
+
+header {
+    z-index: 10;
+    height: 85px;
+}
+
+.desktop{
+    color: #4a4a4a;
+    font-size: 16px;
+    font-family: Roboto-Regular;
+    line-height: 1.6;
+}

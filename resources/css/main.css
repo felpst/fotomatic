@@ -1,0 +1,74 @@
+.main-content {
+    width: 100%;
+}
+
+/* ==============================Sign Up===================================*/
+
+#sign-up-section {
+    background-image: url(../images/banner-landingpage.jpg);
+    background-position: center;
+    background-size: cover;
+
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#sign-up-cta {
+    margin-left: 100px;
+}
+
+/* ==============================Features===================================*/
+
+#features-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#features-section .feature {
+    padding: 0;
+    display: inline-flex;
+    height: 635px;
+}
+
+#features-section .image-container {
+    height: 65%;
+    width: 90%;
+    margin-top: 32px;
+}
+
+#features-section .image-container img {
+    height: 100%;
+    width: 100%;
+}
+
+#features-section .content {
+    margin-top: 40px;
+}
+
+/* ==============================Filters===================================*/
+
+#filters-section .images-container {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#filters-section .image-container img{
+    width: 100%;
+}
+
+/* ==============================Quote===================================*/
+
+#quotes-section {
+    padding: 80px 0;
+}
+
+#quotes-section .quote {
+    color: #4a4a4a;
+    font-size: 30px;
+    font-family: Palatino-Italic;
+    line-height: 1.1;
+    margin-right: 30px;
+}
